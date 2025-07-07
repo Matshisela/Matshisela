@@ -27,7 +27,7 @@
 📬 **Reach Me:**
 - [Twitter](https://twitter.com/matshisela)
 - [LinkedIn](https://www.linkedin.com/in/ntandoyenkosi-matshisela-8507876a/)
-- [Portfolio](https://matshisela.com)
+- [Portfolio]([https://matshiselan.com](https://matshiselan.netlify.app/))
 
 ---
 
