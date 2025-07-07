@@ -8,4 +8,4 @@
 - ⚡ Fun fact: I don't like to lose
 
 
-<img src="![Ntando's GitHub stats](https://github-readme-stats.vercel.app/api?username=matshisela&show_icons=true&theme=dark)">
+![Ntando's GitHub stats](https://github-readme-stats.vercel.app/api?username=matshisela&show_icons=true&theme=dark)
