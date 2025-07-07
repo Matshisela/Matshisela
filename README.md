@@ -27,8 +27,7 @@
 📬 **Reach Me:**
 - [Twitter](https://twitter.com/matshisela)
 - [LinkedIn](https://www.linkedin.com/in/ntandoyenkosi-matshisela-8507876a/)
-- [Portfolio](matshiselan.netlify.app/)
-
+- [Portfolio](https://matshiselan.netlify.app/)
 ---
 
 ⚡ **Fun Fact:** I don't like to lose, but I love learning from failure.
