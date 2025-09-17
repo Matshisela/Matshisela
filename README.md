@@ -36,7 +36,7 @@
 
 📊 **GitHub Stats**
 
-![Ntando's GitHub stats](https://github-readme-stats.vercel.app/api?username=matshisela&show_icons=true&theme=dark)
+![Ntando's GitHub stats](https://github-readme-stats.vercel.app/api?username=matshisela&show_icons=true&theme=dark&cache_seconds=86400)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matshisela&layout=compact&theme=dark)](https://github.com/matshisela)
 
 ---
